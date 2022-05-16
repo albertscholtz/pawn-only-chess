@@ -1,0 +1,16 @@
+type: code
+custom_name: Is there a key?
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun containsKeyAndValue(map: Map<String, String>, value: String): Boolean {
+        // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/12664#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Mon, 16 May 2022 06:30:00 UTC
+record: -1
